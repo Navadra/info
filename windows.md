@@ -43,7 +43,7 @@ Voici l'enchainement des étapes :<br>
 #### Récupérez Navadra le jeu
 
 Téléchargez le ou clonez le repository :<br>
-<a href="https://github.com/Navadra-Learn/navadra-jeu/archive/master.zip" target="_blank">ZIP de la dernière version</a>
+<a href="https://github.com/Navadra/navadra-jeu/archive/master.zip" target="_blank">ZIP de la dernière version</a>
 
 puis extrayez l'archive directement dans le répertoire **C:\wamp64\www** sans aucun sous-répertoire.
 
