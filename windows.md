@@ -64,6 +64,23 @@ utf8_general_ci
 Cliquez sur "créer"<br>
 Puis importez le fichier **C:\wamp64\www\DB\NAVADRA_INIT.sql**
 
+#### Créez un utilisateur navadra dans la DB
+Toujours dans phpmyadmin <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a> créez un utilisateur à qui vous donnerez les droits :wbr>
+**ALTER, CREATE, CREATE TEMPORARY TABLES, DELETE, DROP, INSERT, LOCK TABLES, SELECT, UPDATE**<br>
+sur la base de données navadra que vous venez de créer.
+
+Notez bien le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
+
+
+#### Configuration de l'application Navadra
+Changez le mot de passe d'accès à la base de données pour l'utilisateur Navadra en éditant les fichiers de configuration suivants :
+```console
+vi /var/www/html/app/controllers/include_path.php
+vi /var/www/html/app/controllers/include_path_sans_autoload.php
+```
+
+vous avez simplement à remplacer les **'MOT_DE_PASSE_A_CHANGER'** par le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
+
 #### Tester le jeu
 
 Rendez-vous sur <a href="http://localhost/" target="_blank">http://localhost/</a> et le jeu devrait se lancer.
