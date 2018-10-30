@@ -66,7 +66,7 @@ Puis importez le fichier **C:\wamp64\www\DB\NAVADRA_INIT.sql**
 
 #### Tester le jeu
 
-Rendez-vous sur <a href="http://localhost/" target="_blank">http://localhost/</a> et le jeu devrai se lancer.
+Rendez-vous sur <a href="http://localhost/" target="_blank">http://localhost/</a> et le jeu devrait se lancer.
 
 Ensuite vérifiez que le jeu est accessible via l'adresse IP de votre serveur windows (vérifiez que les pare-feu laisse passer le traffic sur le port 80)
 
