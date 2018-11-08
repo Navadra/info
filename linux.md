@@ -322,7 +322,7 @@ vi /var/www/html/app/controllers/include_path.php
 vi /var/www/html/app/controllers/include_path_sans_autoload.php
 ```
 
-vous avez simplement à remplacer les **'MOT_DE_PASSE_A_CHANGER'** par le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
+vous avez simplement à remplacer les **'VOTRE_MOT_DE_PASSE'** par le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
 
 Si erreur :
 ```console
