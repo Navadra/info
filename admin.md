@@ -1,6 +1,6 @@
 # Rajouter des exercices ou des monstres à un élève, créer un nouveau collège
 
-#### Rajouter des exercices ou des monstres à un élève
+## Rajouter des exercices ou des monstres à un élève
 
 Pour ceci, il vous faut au préalable :
 > - [Un compte "Prof"](get_started.md)
@@ -19,7 +19,7 @@ Vous pouvez réitérer la démarche pour autant d'élèves que souhaité.
 Il vous est également possible de supprimer **définitivement** un joueur en sélectionnant ce dernier et en cliquant sur **Supprimer le joueur**. Attention, cette action est irréversible, assurez-vous bien qu'il s'agit du bon joueur !
 
 
-#### Ajouter un collège
+## Ajouter un collège
 
 **Démarche à suivre :**
 > - Lorsque vous êtes dans l'onglet **Commandes Admin** de votre profil, cliquez sur **Ajouter un collège**.

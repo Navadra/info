@@ -1,6 +1,6 @@
 # Pour aller plus loin : créez votre propres exercices
 
-#### Structure des exercices existants et limites
+## Structure des exercices existants et limites
 
 Aujourd'hui les exercices sont organisés autour de 28 notions, elle-même regroupées en 4 catégories :
 
@@ -42,7 +42,7 @@ Aujourd'hui les exercices sont organisés autour de 28 notions, elle-même regro
 
 Par ailleurs chaque notion possède 4 niveaux de difficulté (de 1 à 4) et chaque niveau possède un nombre variable d'exercices (de 3 à 6).
 
-#### Créer un nouvel exercice
+## Créer un nouvel exercice
 
 Il est bien plus facile de rajouter un exercice dans une notion existante que de créer une nouvelle notion. Nous ne détaillerons donc ici que la **création d'exercices au sein une notion déjà existante**.
 
@@ -97,7 +97,7 @@ Sauvegardez le fichier.
 Vous avez bel et bien rajouté un nouvel exercice mais qui est pour l'instant une copie conforme d'un exercice déjà existant.
 Dans la rubrique suivante vous apprendrez à paramétrer ce nouvel exercice.
 
-#### Configurer votre nouvel exercice
+## Configurer votre nouvel exercice
 
 Le plus simple pour paramétrer un nouvel exercice est de s'inspirer d'un exercice assez semblable.
 Pour cela, vous pouvez vous connecter **avec votre compte Prof** sur Navadra puis vous rendre sur la page :

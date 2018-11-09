@@ -1,6 +1,6 @@
 # Créer un utilisateur
 
-#### Créer un compte professeur (admin)
+## Créer un compte professeur (admin)
 
 Cliquer sur le bouton "S'inscrire" sur la page d'accueil.
 
@@ -16,7 +16,7 @@ Vous saurez que le tutoriel est fini lorsque l'on vous invitera à cliquer sur l
 ![Fin tutoriel](img/fin_tutoriel.png)<br>
 
 
-#### Créer un compte élève
+## Créer un compte élève
 
 Cliquer sur le bouton "S'inscrire" sur la page d'accueil.
 

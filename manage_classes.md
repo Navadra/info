@@ -1,6 +1,6 @@
 # Créer et suivre les progrès de ses classes
 
-#### Créer une classe
+## Créer une classe
 
 Pour ceci, il vous faut au préalable :
 > - [Un compte "Prof"](get_started.md)
@@ -13,7 +13,7 @@ Pour ceci, il vous faut au préalable :
 
 Il vous suffira de préciser le nom, le niveau et le nombre maximum d'élèves de la classe.
 
-#### Créer un créneau Navadra
+## Créer un créneau Navadra
 
 Les **créneaux Navadra** permettent de faire travailler vos élèves sur des notions spécifiques pendant 1h (séance en salle informatique par exemple).
 Sans créneau, les élèves choisissent les notions sur lesquels ils souhaitent travailler donc si vous souhaitez les faire s'exercer sur certaines notions en particulier, il vous faut créer un créneau.
@@ -26,7 +26,7 @@ Sans créneau, les élèves choisissent les notions sur lesquels ils souhaitent 
 
 Une fois un créneau créé, il vous suffit de cliquer dessus pour pouvoir éditer ses informations. Ainsi, vous pourrez toujours changer un créneau déjà créé jusqu'à 1 minute avant le début de ce dernier.
 
-#### Suivre les progrès de vos classes
+## Suivre les progrès de vos classes
 
 **Démarche à suivre :**
 > - Lorsque vous êtes dans l'onglet **Commandes Prof** de votre profil, cliquez sur **Suivi de mes élèves**.

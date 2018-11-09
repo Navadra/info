@@ -1,20 +1,20 @@
 # Guide d'utilisation de Navadra en classe
 
-#### Pré-requis
+## Pré-requis
 
 > - Disposer d'une salle informatique connectée à Internet.
 > - Dans l'idéal, avoir 1 à 2 élèves par poste. Maximum 3 pour garantir une bonne expérience de jeu.
 > - [Créez votre compte "Prof"](get_started.md) pour bénéficier de l'interface professeur.
 
 
-#### Préparer la séance en amont
+## Préparer la séance en amont
 
 > - [Créez votre code classe](manage_classes.md) (4 caractères) depuis l'onglet Commandes Prof de votre profil.
 > - Créez le créneau horaire (1h maximum) durant lequel le jeu sera illimité pour la classe définie.
 > - Définissez 3 notions que les élèves étudierons durant le créneau. Le jeu évaluera le niveau de base du joueur sur ces notions avec un premier défi de chaque et que le reste de la session se focalisera sur les notions encore mal maîtrisée par le joueur en laissant de côté les notions déjà maîtrisées
 
 
-#### Déroulement de la séance
+## Déroulement de la séance
 
 **Inscription de la classe :**
 > - Indiquez à vos élèves l'adresse ou vos hébergez Navadra dans votre collège et demandez leur d'y accéder de préférence via Chrome ou Firefox.
@@ -42,19 +42,19 @@ Le jeu est normalement suffisamment intuitif pour que les élèves puissent joue
 > - Indiquer que les comptes créés leur appartiennent et qu'ils sont libres de jouer chez eux s'ils le souhaitent (gratuitement).
 
 
-#### Après la séance
+## Après la séance
 
 Vous pouvez continuer à suivre les progrès de vos élèves depuis la page de suivi dans les "Commandes Prof".
 
 
 # Ressources annexes
 
-#### But du jeu
+## But du jeu
 
 Navadra est un jeu vidéo conçu pour pratiquer les maths en s'amusant. Dans le jeu, votre personnage est un apprenti magicien qui va devoir s’entraîner à la magie pour triompher des créatures maléfiques qui infestent l'île. Et sur Navadra, la magie c'est les maths !
 
 
-#### Caractéristiques du jeu
+## Caractéristiques du jeu
 
 > - Jeu de rôle (RPG)
 > - Combats au tour par tour
@@ -67,7 +67,7 @@ Trois étapes clés dans le jeu :
 > - Combattre les monstres : partie ludique et révision des notions vues en Défis.
 
 
-#### Questions fréquemment posées par les joueurs durant une séance :
+## Questions fréquemment posées par les joueurs durant une séance :
 
 **Je ne reçois pas les messages privés de mon ami.**
 
