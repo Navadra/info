@@ -16,7 +16,7 @@ Répertoire d'installation conseillé :<br>
 
 Voici l'enchainement des étapes :<br>
 
-##### Choisissez de la langue
+##### Choisissez la langue
 ![Etape 1](img/install_win_01.png)<br>
 ##### Acceptez la license
 ![Etape 2](img/install_win_02.png)<br>
