@@ -65,7 +65,7 @@ Cliquez sur "créer"<br>
 Puis importez le fichier **C:\wamp64\www\DB\NAVADRA_INIT.sql**
 
 #### Créez un utilisateur navadra dans la DB
-Toujours dans phpmyadmin <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a> créez un utilisateur à qui vous donnerez les droits :wbr>
+Toujours dans phpmyadmin <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a> créez un utilisateur **navadra** à qui vous donnerez les droits :<br>
 **ALTER, CREATE, CREATE TEMPORARY TABLES, DELETE, DROP, INSERT, LOCK TABLES, SELECT, UPDATE**<br>
 sur la base de données navadra que vous venez de créer.
 
@@ -79,7 +79,7 @@ vi /var/www/html/app/controllers/include_path.php
 vi /var/www/html/app/controllers/include_path_sans_autoload.php
 ```
 
-vous avez simplement à remplacer les **'MOT_DE_PASSE_A_CHANGER'** par le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
+vous avez simplement à remplacer les **'VOTRE_MOT_DE_PASSE'** par le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
 
 #### Tester le jeu
 
