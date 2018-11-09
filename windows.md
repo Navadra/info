@@ -75,8 +75,8 @@ Notez bien le mot de passe MySQL de l'utilisateur Navadra que vous venez de cré
 #### Configuration de l'application Navadra
 Changez le mot de passe d'accès à la base de données pour l'utilisateur Navadra en éditant les fichiers de configuration suivants :
 ```console
-vi /var/www/html/app/controllers/include_path.php
-vi /var/www/html/app/controllers/include_path_sans_autoload.php
+C:\wamp64\www\app\controllers\include_path.php
+C:\wamp64\www\app\controllers\include_path_sans_autoload.php
 ```
 
 vous avez simplement à remplacer les **'VOTRE_MOT_DE_PASSE'** par le mot de passe MySQL de l'utilisateur Navadra que vous venez de créer.
